@@ -1,2 +1,5 @@
-# Optical_fiber_machining
-MATLAB interface for controlling CO2 laser machining equipment and stages
+# CO2_Shooting_GUI
+Interface for controlling the fiber machining equipment
+
+
+Main file is SimpleApp2.m
